@@ -22,7 +22,7 @@
 3. Run all the shells
 4. Running the last shell will open up a camera screen where you can place your hand in the Region of Interest, and make signs for numbers from 0 to 9. The prediction will appear on the screen.
 
- ### Demo Link : https://drive.google.com/file/d/1lm7-CvF8i4UVzs0HjTUiJrCrqVJWpegB/view?usp=sharing
+ Demo Link : https://drive.google.com/file/d/1lm7-CvF8i4UVzs0HjTUiJrCrqVJWpegB/view?usp=sharing
 
 # Creating your own Dataset :
 
