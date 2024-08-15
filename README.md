@@ -1,12 +1,4 @@
-# CS337-Project-Sign-Language-Detection
-## Team VYAAS
-
-# Contibutors : 
-1. Aditya Singh
-2. Yuvraj Singh
-3. Shreya Tiwari 
-4. Vir Wankhede
-5. Ayush Narwal
+# Project-Sign-Language-Detection
 
 # Tech Stack :
 1. Tensorflow
@@ -23,6 +15,10 @@
 4. Running the last shell will open up a camera screen where you can place your hand in the Region of Interest, and make signs for numbers from 0 to 9. The prediction will appear on the screen.
 
  Demo Link : https://drive.google.com/file/d/1lm7-CvF8i4UVzs0HjTUiJrCrqVJWpegB/view?usp=sharing
+
+# Results :
+
+Achieved a final accuracy of 96.2%. Experimented with various CNN architectures and dropout rates. Also tried bagging and boosting for better performance.
 
 # Creating your own Dataset :
 
